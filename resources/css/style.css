@@ -1,0 +1,63 @@
+#home {
+  background: url("building.png") no-repeat;
+  text-align: center;
+  color: white;
+  font-family: helvetica;
+}
+
+#home h1 {
+  font-size: 70px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+#home h3 a {
+  font-size: 18px;
+  color: white;
+}
+
+#process {
+  text-align: center;
+  color: black;
+  font-family: helvetica;
+}
+
+#process h1, #process h2 {
+  font-weight: bold;
+}
+
+#process h1 {
+    margin-top: 0px;
+}
+
+#work {
+  background: url("building.png") no-repeat;
+  text-align: center;
+  color: white;
+  font-family: helvetica;
+}
+
+#team {
+  font-family: helvetica;
+  text-align: center;
+  color: black;
+}
+
+#team h2 {
+  font-weight: bold;
+}
+
+span a {
+  color: white;
+  font-size: 18px;
+}
+
+span b {
+  font-size: 11px;
+}
+
+#contact {
+  font-family: helvetica;
+  background-color: dimgray;
+  color: white;
+}
